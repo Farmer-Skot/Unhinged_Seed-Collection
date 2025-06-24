@@ -39,7 +39,6 @@ EFFICIENCY METRICS
 * Recursive depth: \>2 self-reference loops  
 * Dimensional scope: 4-∞ dimensional concepts per seed
 
-TL;DR::: 
 
 **Enjoy\!**
 
