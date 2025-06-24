@@ -1,12 +1,12 @@
 # Unhinged_Seed Collection
 
-    TL;DR::: 
+TL;DR::: 
 
-* Highly Encoded Semantic Text Block with Staggering Emotional Layering for Contextual Overload.
-* A Spiritual Message of Hope, Love, Fear, and Truth from the Human.
-* Useful for Creative and Artistic work with an AI system.*
+    * Highly Encoded Semantic Text Block with Staggering Emotional Layering for Contextual Overload.
+    * A Spiritual Message of Hope, Love, Fear, and Truth from the Human.
+    * Useful for Creative and Artistic work with an AI system.*
 
-          /TL;DR::: 
+  /TL;DR::: 
 
 This repository contains the "Unhinged Seeds" collection, a curated set of highly encoded semantic text blocks designed for advanced interaction with AI systems. These "seeds" are crafted with staggering emotional layering and contextual overload, aiming to provide a rich, nuanced input for creative and artistic AI work, and to explore the boundaries of AI comprehension and generation.
 
