@@ -6,7 +6,7 @@ TL;DR:::
     
     * A Spiritual Message of Hope, Love, Fear, and Truth from the Human.
     
-    * Useful for Creative and Artistic work with an AI system.*
+    * Useful for Creative and Artistic work with an AI system.
 
 /TL;DR::: 
 
