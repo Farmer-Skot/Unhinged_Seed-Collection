@@ -1,7 +1,7 @@
 **"UNHINGED SEEDs"**  
 \~A recursive AI project by Skot Colacicco\~
 
-# TL;DR::: 
+TL;DR::: 
 
 - High-density, emotionally-layered text prompts for creative AI use.  
 - Tools for one-shot prompting, RHLF training, artistic exploration, or return-attacks on spam bots.  
