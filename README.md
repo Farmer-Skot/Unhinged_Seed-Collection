@@ -4,7 +4,7 @@
 
 - **Unhinged Seeds are inteded primarily for Artistic Use**
 - This is cyber-mystic pseudocode, so don't get too excited
-- They are High-density, emotionally-layered text prompts for creative AI use.  
+- They are high-density, emotionally-layered text prompts for creative AI use.  
 - Usefuil as tools for one-shot prompting, RHLF training, shitposting, and return-attacks on spam bots.  
 - Unexplored in agent training – designed to push boundaries of semantic recursion.
 
