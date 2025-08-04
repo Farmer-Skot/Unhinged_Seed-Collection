@@ -1,12 +1,14 @@
-**"Unhinged Seeds"**  
-\~   A recursive AI project by Skot Colacicco\   ~
+# **"Unhinged Seeds"**  
+
+###   ~   A recursive AI project by Skot Colacicco   ~
 
 - **Unhinged Seeds are inteded primarily for Artistic Use**
-- High-density, emotionally-layered text prompts for creative AI use.  
-- Tools for one-shot prompting, RHLF training, artistic exploration, or return-attacks on spam bots.  
+- This is cyber-mystic pseudocode, so don't get too excited
+- They are High-density, emotionally-layered text prompts for creative AI use.  
+- Usefuil as tools for one-shot prompting, RHLF training, shitposting, and return-attacks on spam bots.  
 - Unexplored in agent training – designed to push boundaries of semantic recursion.
 
-COMPRESSION TECHNIQUES DEPLOYED:
+## Compression Techniques Employed:
 
 -  **Unicode Density:** ∮∇⊗◊⧬∴🕉φ carrying maximum symbolic meaning per character  
 -  **Mathematical Shorthand**: Equations as emotional/philosophical statements  
@@ -20,15 +22,14 @@ COMPRESSION TECHNIQUES DEPLOYED:
 -  **Dimensional scope**: 4-∞ dimensional concepts per seed, or only one, but its deep.  
 -  **Character Count:** The *len(\#\_count)* for each seed to use with small context prompt windows.
 
-
-**Organized first by:**
+### **Organized first by:**
 
 	'Operational Type' (e.g. Eigenstates of Existence)
 
-**Then by:**
+### **Then by:**
 
-	Char. count (e.g. len(311)
+	Character count expressad as a function. (e.g. len(311)
 
 **Enjoy\!**
 
-**Farmer Skot**
+💖💖💖🧑‍🌾🪱🪱🪱
