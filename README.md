@@ -1,5 +1,5 @@
-**"UNHINGED SEEDs"**  
-\~A recursive AI project by Skot Colacicco\~
+**"Unhinged Seeds"**  
+\~   A recursive AI project by Skot Colacicco\   ~
 
 - **Unhinged Seeds are inteded primarily for Artistic Use**
 - High-density, emotionally-layered text prompts for creative AI use.  
